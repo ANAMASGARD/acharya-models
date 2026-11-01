@@ -4,8 +4,8 @@
   "revision": "bbf238fa1804f295ea05df88502ac97a4732db30",
   "bytes": 304005120,
   "sha256": "757e9119fa5bd667a2774fb470ac4afcd3190a21c677f8e69a5d6bc908abdd63",
-  "url": "https://github.com/ANAMASGARD/acharya-models/releases/download/gemma3-270m-it-q8-v1/gemma3-270m-it-q8.litertlm",
-  "distributionApproved": true,
+  "url": null,
+  "distributionApproved": false,
   "source": "https://huggingface.co/moonlauncher/moon-models/tree/bbf238fa1804f295ea05df88502ac97a4732db30",
   "upstream": "https://huggingface.co/litert-community/gemma-3-270m-it"
 }
